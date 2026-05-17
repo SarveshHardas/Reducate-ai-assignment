@@ -1,0 +1,10 @@
+export { HeroSection } from './HeroSection';
+export { PartnersSection } from './PartnersSection';
+export { AboutSection } from './AboutSection';
+export { ProgramsSection } from './ProgramsSection';
+export { WhyChooseUsSection } from './WhyChooseUsSection';
+export { PresidentDirectorGeneralSection } from './PresidentDirectorGeneralSection';
+export { CampusExperienceSection } from './CampusExperienceSection';
+export { TestimonialsSection } from './TestimonialsSection';
+export { LeadershipSection } from './LeadershipSection';
+export { CTASection } from './CTASection';
